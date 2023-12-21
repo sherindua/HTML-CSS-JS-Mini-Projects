@@ -1,0 +1,22 @@
+body{
+  text-align: center;
+}
+
+.game-buttons{
+  height: 100px;
+  width: 100px;
+  background-color:lightgreen ;
+  border: 0;
+  cursor: pointer;
+  margin: 10px;
+  border-radius: 50px;
+}
+
+.icons{
+height: 90px;
+}
+
+header{
+  font-family: 'Courier New', Courier, monospace;
+  color: blue;
+}
